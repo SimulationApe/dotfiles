@@ -120,3 +120,6 @@ set hlsearch
 
 set mouse=
 
+" Set default register to system clipboard
+set clipboard=unnamedplus
+
